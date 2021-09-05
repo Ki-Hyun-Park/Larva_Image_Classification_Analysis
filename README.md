@@ -6,6 +6,7 @@
 
 - As a group of 4 people, we:
    <p>
+   
    - Used GAN(Generative Adversarial Network) to generate similar images. <br/>
 
    - Used DarkNet and created Bounding Box around larva image. <br/>
