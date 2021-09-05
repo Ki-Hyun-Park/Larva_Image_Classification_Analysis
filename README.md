@@ -1,19 +1,17 @@
-# Larva_Image_Classification_Analysis
+# Larva Image Classification Analysis
 
 ***
 
-- <p> The whole project was done in about 3 weeks and it was conducted by group of 3 people. </p>
+- <p> The purpose of this project was to detect larva from water and the main method we used was the image detection called YOLO. </p>
 
-- As a group of 3 people, we:
+- As a group of 4 people, we:
    <p>
-   - Created a modeling system that can predict the winning team in basketball games. With this, basketball fans can get a general idea of the winning team          solely based on the factors that actually have an impact on the outcome. <br/>
+   - Used GAN(Generative Adversarial Network) to generate similar images. <br/>
 
-   - Created binary response variable. <br/>
-
-   - Removed perfectly collinear(redundant) variables. <br/>
+   - Used DarkNet and created Bounding Box around larva image. <br/>
    
-   - Randomly splitted the full training data into another set of training and testing data (at the ratio of 75:25). <br/>
+   - Randomly splitted the full training data into 3 sets(training,testing,validation). <br/>
    
-   - Applied methods of Lasso, LDA, Logistic, PCR, Ridge and conducted modeling on training data. </p>
+   - Applied methods of YOLO and conducted modeling on training data. </p>
    
 ***
